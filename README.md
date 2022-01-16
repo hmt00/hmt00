@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bachle2000&label=Profile%20views&color=0e75b6&style=flat" alt="bachle2000" /> </p>
 
-- 🔭 I’m currently working on **HMT's Bot**
+- 🔭 Tôi đang làm việc **Ở Nhà :)**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 Tôi đang học cách làm **Node.js**
 
-- 👨‍💻 All of my projects are available at [this github profile :/](link)
+- 👨‍💻 Tất cả dự án của tôi [Bấm vào đây :)](https://github.com/HMT2008?tab=repositories)
 
-- 📫 How to reach me **Hoàng Minh Trí#8039#**
+- 📫 Tương tác với tôi qua discord: **HMT#5564**
 
 ---
 
@@ -37,7 +37,7 @@
 
 **Listening** on Spotify
 
-<a href="https://bach-le2000.vercel.app/now-playing?open">
+<a href="https://HMT.vercel.app/now-playing?open">
     <img src="https://bach-le2000.vercel.app/now-playing/" width="256" height="64" alt="Now Playing">
 </a>
 
