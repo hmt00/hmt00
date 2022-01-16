@@ -23,8 +23,8 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/HMT2008/pull/1) in [HMT2008/HMT2008](https://github.com/HMT2008)
-2. 🎉 Merged PR [#2](https://github.com/HMT2008/pull/2) in [HMT2008/HMT2008](https://github.com/HMT2008)
+1. 🎉 Được phân nhánh từ [#1](https://github.com/HMT2008/pull/1) in [HMT2008/HMT2008](https://github.com/HMT2008)
+2. 🎉 Được phân nhánh từ [#2](https://github.com/HMT2008/pull/2) in [HMT2008/HMT2008](https://github.com/HMT2008)
 <!--END_SECTION:activity-->
 
 
