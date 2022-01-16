@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Các loại ngôn ngữ và công cụ tôi sử dụng:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ---
@@ -23,8 +23,8 @@
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/BachLe2000/BachLe2000/pull/1) in [BachLe2000/BachLe2000](https://github.com/BachLe2000/BachLe2000)
-2. 🎉 Merged PR [#2](https://github.com/BachLe2000/BachLe2000/pull/2) in [BachLe2000/BachLe2000](https://github.com/BachLe2000/BachLe2000)
+1. 🎉 Merged PR [#1](https://github.com/HMT2008/pull/1) in [HMT2008/HMT2008](https://github.com/HMT2008)
+2. 🎉 Merged PR [#2](https://github.com/HMT2008/pull/2) in [HMT2008/HMT2008](https://github.com/HMT2008)
 <!--END_SECTION:activity-->
 
 
@@ -35,7 +35,7 @@
 
 ---
 
-**Listening** on Spotify
+**Nghe nhạc** trên Spotify
 
 <a href="https://HMT.vercel.app/now-playing?open">
     <img src="https://bach-le2000.vercel.app/now-playing/" width="256" height="64" alt="Now Playing">
