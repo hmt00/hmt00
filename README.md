@@ -1,5 +1,5 @@
 <h1 align="center">Chào 👋, Tôi là HMT :)</h1>
-<h3 align="center">Hay còn gọi là Hoàng Minh Trí :))</h3>
+<h3 align="center">Hay còn gọi là Hoàng Minh Trí</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bachle2000&label=Profile%20views&color=0e75b6&style=flat" alt="bachle2000" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 Tôi đang học cách làm **Node.js**
 
-- 👨‍💻 Tất cả dự án của tôi [Bấm vào đây :)](https://github.com/HMT2008?tab=repositories)
+- 👨‍💻 Tất cả dự án của tôi [Bấm vào đây](https://github.com/HMT2008?tab=repositories)
 
 - 📫 Tương tác với tôi qua Discord: **HMT#5564**
 
