@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bachle2000&label=Profile%20views&color=0e75b6&style=flat" alt="bachle2000" /> </p>
 
-- 🔭 Tôi đang làm việc **Ở Nhà :)**
+- 🔭 Nghề nghiệp của tôi **Đi học :)**
 
 - 🌱 Tôi đang học cách làm **Node.js**
 
@@ -38,7 +38,7 @@
 **Nghe nhạc** trên Spotify
 
 <a href="https://HMT.vercel.app/now-playing?open">
-    <img src="https://bach-le2000.vercel.app/now-playing/" width="256" height="64" alt="Now Playing">
+    <img src="https://HMT.vercel.app/now-playing/" width="256" height="64" alt="Now Playing">
 </a>
 
 ---
