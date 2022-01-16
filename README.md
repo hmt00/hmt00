@@ -9,7 +9,7 @@
 
 - 👨‍💻 Tất cả dự án của tôi [Bấm vào đây :)](https://github.com/HMT2008?tab=repositories)
 
-- 📫 Tương tác với tôi qua discord: **HMT#5564**
+- 📫 Tương tác với tôi qua Discord: **HMT#5564**
 
 ---
 
