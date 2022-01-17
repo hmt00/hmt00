@@ -1,7 +1,7 @@
 <h1 align="center">Chào 👋, Tôi là HMT :)</h1>
 <h3 align="center">Hay còn gọi là Hoàng Minh Trí</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmt2008&label=Profile%20views&color=0e75b6&style=flat" alt="bachle2000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmt2008&label=Profile%20views&color=0e75b6&style=flat" alt="hmt2008" /> </p>
 
 - 🔭 Nghề nghiệp của tôi **Đi học :)**
 
@@ -10,6 +10,8 @@
 - 👨‍💻 Tất cả dự án của tôi [Bấm vào đây](https://github.com/HMT2008?tab=repositories)
 
 - 📫 Tương tác với tôi qua Discord: **HMT#5564**
+
+- 📽️ Đăng kí kênh của tôi: [Bấm vào đây](https://www.youtube.com/channel/UCkAI9_OVMYeexK_gk2HgZZg) 
 
 ---
 
@@ -32,13 +34,5 @@
 
 <!--START_SECTION:waka-->
 
-
----
-
-**Nghe nhạc** trên Spotify
-
-<a href="https://HMT.vercel.app/now-playing?open">
-    <img src="https://HMT.vercel.app/now-playing/" width="256" height="64" alt="Now Playing">
-</a>
 
 ---
