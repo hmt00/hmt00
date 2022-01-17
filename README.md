@@ -1,7 +1,7 @@
 <h1 align="center">Chào 👋, Tôi là HMT :)</h1>
 <h3 align="center">Hay còn gọi là Hoàng Minh Trí</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bachle2000&label=Profile%20views&color=0e75b6&style=flat" alt="bachle2000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmt2008&label=Profile%20views&color=0e75b6&style=flat" alt="bachle2000" /> </p>
 
 - 🔭 Nghề nghiệp của tôi **Đi học :)**
 
