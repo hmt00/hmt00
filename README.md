@@ -9,7 +9,7 @@
 
 - 🌱 Tôi đang tìm hiểu, khám phá **Phát triển Windows và Software**
 
-- 👯 Nghề nghiệp của tôi **Đi học. Học sinh**
+- 👯 Nghề nghiệp của tôi **Đi học và Học sinh**
 
 - 🤝 Người trợ giúp [Phạm Quang Minh](https://www.facebook.com/quangminh08hn)
 
@@ -17,7 +17,7 @@
 
 - 📝 Tôi thường viết bài trên HMT Technology [hmt08.blogspot.com](hmt08.blogspot.com)
 
-- 💬 Có thể hỏi tôi về **Công nghệ máy tính, windows và phần mềm :D**
+- 💬 Có thể hỏi tôi về **công nghệ máy tính, Windows và Software :D**
 
 - 📫 Liên hệ với tôi qua **hoangminhtri2008@gmail.com**
 
@@ -38,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmt2008&show_icons=true&locale=en" alt="hmt2008" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmt2008&" alt="hmt2008" /></p>
-
