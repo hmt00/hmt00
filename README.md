@@ -2,8 +2,7 @@
 <h3 align="center">Nhà phát triển về công nghệ máy tính, Windows và Software :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmt2008&label=Profile%20views&color=0e75b6&style=flat" alt="hmt2008" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmt2008" alt="hmt2008" /></a> </p>
+</p>
 
 - 🔭 Tôi hiện đang làm: [HMT Virus](https://github.com/HMT2008/HMT-Virus)
 
