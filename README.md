@@ -21,7 +21,7 @@
 - 📫 Liên hệ với tôi qua: **hoangminhtri2008@gmail.com**
 
 - ⚡ Sự thật: **Tôi nghĩ tôi hài hước =))**
-
+---
 <h3 align="left">Kết nối với tôi qua:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/hmt2008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hmt2008/" height="30" width="40" /></a>
