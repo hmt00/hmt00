@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hmt2008&show_icons=true&locale=en" alt="hmt2008" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hmt2008&" alt="hmt2008" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmt2008&" alt="hmt2008" /></p>
