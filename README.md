@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/HMT2008/HMT2008/main/Windows.png" width="640" height="360" />
+
 <h1 align="center">Chào 👋, Tôi là HMT 😊</h1>
 <h3 align="center">Nhà phát triển về công nghệ máy tính, Windows và Software :)</h3>
 
