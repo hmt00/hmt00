@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/HMT2008/HMT2008/main/img0.png" width="640" height="360" />
 
 <h1 align="center">Chào 👋, Tôi là HMT 😊</h1>
-<h3 align="center">Nhà phát triển về công nghệ máy tính, Windows và Software :)</h3>
+<h3 align="center">Nhà phát triển về công nghệ máy tính.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmt2008&label=Profile%20views&color=0e75b6&style=flat" alt="hmt2008" /> </p>
 </p>
@@ -9,8 +9,6 @@
 ---
 
 - 🔭 Tôi hiện đang làm: [HMT Virus](https://github.com/HMT2008/HMT-Virus)
-
-- 🌱 Tôi đang tìm hiểu, khám phá: **Phát triển Windows và Software**
 
 - 👯 Nghề nghiệp của tôi: **Học sinh**
 
@@ -24,15 +22,13 @@
 
 - 📫 Liên hệ với tôi qua: **hoangminhtri2008@gmail.com**
 
-- ⚡ Sự thật: **Tôi nghĩ tôi hài hước =))**
-
 ---
 
 <h3 align="left">Kết nối với tôi qua:</h3>
 <p align="left">
 <a href="https://fb.com/hmt2008/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hmt2008/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCkAI9_OVMYeexK_gk2HgZZg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckai9_ovmyeexk_gk2hgzzg" height="30" width="40" /></a>
-<a href="https://discord.gg/GkBh5WQYrJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GkBh5WQYrJ" height="30" width="40" /></a>
+<a href="https://discord.gg/NHvshgWk8N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GkBh5WQYrJ" height="30" width="40" /></a>
 </p>
 
 ---
