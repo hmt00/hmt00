@@ -20,7 +20,7 @@
 
 - 💬 Có thể hỏi tôi về: **Công nghệ máy tính, Windows và Software :D**
 
-- 📫 Liên hệ với tôi qua: **hoangminhtri2008@gmail.com**
+- 📫 Liên hệ với tôi qua: **hmt2682008@gmail.com**
 
 ---
 
