@@ -14,7 +14,7 @@
 
 - 👨‍💻 Tất cả các dự án của tôi đều có sẵn tại: [Kho lưu trữ](https://github.com/HMT2008?tab=repositories)
 
-- 📝 Tôi thường viết bài trên: [HMT Technology](https://hmt08.blogspot.com)
+- 📝 Tôi thường viết bài trên: [HMT Technology](https://sites.google.com/view/hmt268)
 
 - 💬 Có thể hỏi tôi về: **Công nghệ máy tính, Windows và Software :D**
 
