@@ -12,8 +12,6 @@
 
 - 👯 Nghề nghiệp của tôi: **Học sinh**
 
-- 🤝 Người trợ giúp: [Phạm Quang Minh](https://www.facebook.com/quangminh08hn)
-
 - 👨‍💻 Tất cả các dự án của tôi đều có sẵn tại: [Kho lưu trữ](https://github.com/HMT2008?tab=repositories)
 
 - 📝 Tôi thường viết bài trên: [HMT Technology](https://hmt08.blogspot.com)
