@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 Tôi hiện đang làm: [HMT Virus](https://github.com/HMT2008/HMT-Virus)
+- 🔭 Tôi hiện đang làm: [Discord Online 24/7](https://github.com/HMT268/Discord-Online-247)
 
 - 👯 Nghề nghiệp của tôi: **Học sinh**
 
