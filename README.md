@@ -16,8 +16,6 @@
 
 - 📝 Tôi thường viết bài trên: [HMT Technology](https://sites.google.com/view/hmt268)
 
-- 💬 Có thể hỏi tôi về: **Công nghệ máy tính, Windows và Software :D**
-
 - 📫 Liên hệ với tôi qua: **hmt2682008@gmail.com**
 
 ---
